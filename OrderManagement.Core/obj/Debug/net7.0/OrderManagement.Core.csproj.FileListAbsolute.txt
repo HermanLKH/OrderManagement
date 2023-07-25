@@ -1,0 +1,12 @@
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\bin\Debug\net7.0\OrderManagement.Core.deps.json
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\bin\Debug\net7.0\OrderManagement.Core.dll
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\bin\Debug\net7.0\OrderManagement.Core.pdb
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\obj\Debug\net7.0\OrderManagement.Core.csproj.AssemblyReference.cache
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\obj\Debug\net7.0\OrderManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\obj\Debug\net7.0\OrderManagement.Core.AssemblyInfoInputs.cache
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\obj\Debug\net7.0\OrderManagement.Core.AssemblyInfo.cs
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\obj\Debug\net7.0\OrderManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\obj\Debug\net7.0\OrderManagement.Core.dll
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\obj\Debug\net7.0\refint\OrderManagement.Core.dll
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\obj\Debug\net7.0\OrderManagement.Core.pdb
+C:\Users\herma\source\repos\Orders.WebAPI\OrderManagement.Core\obj\Debug\net7.0\ref\OrderManagement.Core.dll
